@@ -137,5 +137,5 @@ Project Link: [https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker]
 <!-- Statistics -->  
 
 <p>
-<img src=https://komarev.com/ghpvc/?username=Drillenissen />
+<img src=https://komarev.com/ghpvc/?username=Drillenissen />10
 </p>
